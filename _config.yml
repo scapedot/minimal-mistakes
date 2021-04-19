@@ -278,6 +278,7 @@ defaults:
       author_profile: true
       read_time: true
       show_date: true
+      date_format: “%Y-%b-%d”
       comments: true
       share: false
       related: true
